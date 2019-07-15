@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SignIn</string>
+    <string name="title_sign">Sign</string>
+    <string name="title_record">Record</string>
+    <string name="title_mine">Mine</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="action_settings">被你发现了！！</string>
+    <string name="et_login_account">请输入账号</string>
+    <string name="et_login_password">请输入密码</string>
+    <string name="bt_login">登录</string>
+    <string name="ll_end_tv">我是有底线的！</string>
+    <string name="tv_loading">正在加载···</string>
+    <string name="tv_course">课程</string>
+    <string name="tv_teacher">任课老师</string>
+    <string name="tv_date">日期</string>
+    <string name="tv_class">专业班级</string>
+    <string name="tv_place">上课地点</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
